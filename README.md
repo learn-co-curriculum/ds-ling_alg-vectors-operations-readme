@@ -1,1 +1,0 @@
-# ds-ling_alg-vectors-operations-readme
