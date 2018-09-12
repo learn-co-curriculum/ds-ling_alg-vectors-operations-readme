@@ -1,5 +1,5 @@
 
-## Vectors
+## Vectors and Operations
 
 * Describe a vector as a combination of scalar values along with geometric intuition. 
 * Define a vector in python and using indexing to address/modify its elements.
